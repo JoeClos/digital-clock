@@ -1,0 +1,23 @@
+body{
+  background-image: url("./images/wtch.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.watch{
+  background-color: rgb(51, 46, 46);
+  padding: 1px;
+  margin: 5px 30rem;
+  border-radius: 5px;
+}
+
+.digital-watch{
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: black;
+  color: antiquewhite;
+  text-align: center;
+  border-radius: 8px;
+}
